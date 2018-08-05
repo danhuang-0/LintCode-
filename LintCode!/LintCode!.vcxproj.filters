@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\已完成">
+      <UniqueIdentifier>{16066df1-d857-4130-af14-5cc5d8a2d183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\待解决">
+      <UniqueIdentifier>{3980502a-6016-4787-b21d-7d36b8b136bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\已完成\三位数">
+      <UniqueIdentifier>{6e965eb2-9cd5-4573-b512-eadcad70739c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\已完成\两位数">
+      <UniqueIdentifier>{33a25a1e-87df-413f-8143-fa0f30b17f02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\已完成\一位数">
+      <UniqueIdentifier>{40ce895c-d006-4471-a0e0-9dd3f04101de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="30. 插入区间.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
+    <ClCompile Include="1. a+b.cpp">
+      <Filter>源文件\已完成\一位数</Filter>
+    </ClCompile>
+    <ClCompile Include="2. 尾部的0.cpp">
+      <Filter>源文件\已完成\一位数</Filter>
+    </ClCompile>
+    <ClCompile Include="6. 合并排序数组II.cpp">
+      <Filter>源文件\已完成\一位数</Filter>
+    </ClCompile>
+    <ClCompile Include="8. 旋转字符串.cpp">
+      <Filter>源文件\已完成\一位数</Filter>
+    </ClCompile>
+    <ClCompile Include="9. Fizz Buzz 问题.cpp">
+      <Filter>源文件\已完成\一位数</Filter>
+    </ClCompile>
+    <ClCompile Include="13. Implement strStr().cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="14. 二分查找.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="28. 搜索二维矩阵.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="22. 平面列表.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="876. 连接字符串.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
+    <ClCompile Include="5. 第K大的数.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
+    <ClCompile Include="35. 翻转链表.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="12. 带有最小值操作的栈.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="3. 统计数字.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
