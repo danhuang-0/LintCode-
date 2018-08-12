@@ -63,9 +63,6 @@
     <ClCompile Include="876. 连接字符串.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
-    <ClCompile Include="5. 第K大的数.cpp">
-      <Filter>源文件\待解决</Filter>
-    </ClCompile>
     <ClCompile Include="35. 翻转链表.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
@@ -74,6 +71,9 @@
     </ClCompile>
     <ClCompile Include="3. 统计数字.cpp">
       <Filter>源文件\待解决</Filter>
+    </ClCompile>
+    <ClCompile Include="5. 第K大的数.cpp">
+      <Filter>源文件\已完成\一位数</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
