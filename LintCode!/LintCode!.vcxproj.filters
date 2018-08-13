@@ -75,5 +75,11 @@
     <ClCompile Include="5. 第K大的数.cpp">
       <Filter>源文件\已完成\一位数</Filter>
     </ClCompile>
+    <ClCompile Include="7. 二叉树的序列化和反序列化.cpp">
+      <Filter>源文件\已完成\一位数</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 二叉查找树中搜索区间.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

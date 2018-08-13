@@ -77,6 +77,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1. a+b.cpp" />
+    <ClCompile Include="11. 二叉查找树中搜索区间.cpp" />
     <ClCompile Include="12. 带有最小值操作的栈.cpp" />
     <ClCompile Include="13. Implement strStr().cpp" />
     <ClCompile Include="14. 二分查找.cpp" />
@@ -87,6 +88,7 @@
     <ClCompile Include="35. 翻转链表.cpp" />
     <ClCompile Include="5. 第K大的数.cpp" />
     <ClCompile Include="6. 合并排序数组II.cpp" />
+    <ClCompile Include="7. 二叉树的序列化和反序列化.cpp" />
     <ClCompile Include="876. 连接字符串.cpp" />
     <ClCompile Include="9. Fizz Buzz 问题.cpp" />
     <ClCompile Include="8. 旋转字符串.cpp" />
