@@ -81,5 +81,14 @@
     <ClCompile Include="11. 二叉查找树中搜索区间.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
+    <ClCompile Include="36. 翻转链表II.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="44. 最小子数组.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="37. 翻转一个3位整数.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
