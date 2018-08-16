@@ -90,5 +90,11 @@
     <ClCompile Include="37. 翻转一个3位整数.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
+    <ClCompile Include="31. 数组划分.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="40. 用栈实现队列.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
