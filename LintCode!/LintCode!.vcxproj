@@ -90,6 +90,7 @@
     <ClCompile Include="36. 翻转链表II.cpp" />
     <ClCompile Include="37. 翻转一个3位整数.cpp" />
     <ClCompile Include="40. 用栈实现队列.cpp" />
+    <ClCompile Include="41. 最大子数组.cpp" />
     <ClCompile Include="44. 最小子数组.cpp" />
     <ClCompile Include="5. 第K大的数.cpp" />
     <ClCompile Include="6. 合并排序数组II.cpp" />

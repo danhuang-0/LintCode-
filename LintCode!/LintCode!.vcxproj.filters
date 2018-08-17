@@ -96,5 +96,8 @@
     <ClCompile Include="40. 用栈实现队列.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
+    <ClCompile Include="41. 最大子数组.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
