@@ -99,6 +99,9 @@
     <ClCompile Include="5. 第K大的数.cpp" />
     <ClCompile Include="54. String to Integer (atoi).cpp" />
     <ClCompile Include="6. 合并排序数组II.cpp" />
+    <ClCompile Include="61. 搜索区间.cpp" />
+    <ClCompile Include="62. 搜索旋转排序数组.cpp" />
+    <ClCompile Include="63. 搜索旋转排序数组 II.cpp" />
     <ClCompile Include="7. 二叉树的序列化和反序列化.cpp" />
     <ClCompile Include="876. 连接字符串.cpp" />
     <ClCompile Include="9. Fizz Buzz 问题.cpp" />

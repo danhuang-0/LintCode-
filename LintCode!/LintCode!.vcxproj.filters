@@ -114,5 +114,14 @@
     <ClCompile Include="54. String to Integer (atoi).cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
+    <ClCompile Include="61. 搜索区间.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="62. 搜索旋转排序数组.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="63. 搜索旋转排序数组 II.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
