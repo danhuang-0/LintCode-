@@ -123,5 +123,8 @@
     <ClCompile Include="63. 搜索旋转排序数组 II.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
+    <ClCompile Include="56. 两数之和.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
