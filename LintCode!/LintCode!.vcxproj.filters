@@ -126,5 +126,8 @@
     <ClCompile Include="56. 两数之和.cpp">
       <Filter>源文件\待解决</Filter>
     </ClCompile>
+    <ClCompile Include="53. 翻转字符串.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
