@@ -136,7 +136,19 @@
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
     <ClCompile Include="78. 最长公共前缀.cpp">
-      <Filter>源文件\待解决</Filter>
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="82. 落单的数.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="83. 简单的数II.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="46. Majority Element.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="17. 子集.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

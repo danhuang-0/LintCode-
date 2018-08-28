@@ -81,6 +81,7 @@
     <ClCompile Include="12. 带有最小值操作的栈.cpp" />
     <ClCompile Include="13. Implement strStr().cpp" />
     <ClCompile Include="14. 二分查找.cpp" />
+    <ClCompile Include="17. 子集.cpp" />
     <ClCompile Include="2. 尾部的0.cpp" />
     <ClCompile Include="28. 搜索二维矩阵.cpp" />
     <ClCompile Include="3. 统计数字.cpp" />
@@ -95,6 +96,7 @@
     <ClCompile Include="40. 用栈实现队列.cpp" />
     <ClCompile Include="41. 最大子数组.cpp" />
     <ClCompile Include="44. 最小子数组.cpp" />
+    <ClCompile Include="46. Majority Element.cpp" />
     <ClCompile Include="49. 字符大小写排序.cpp" />
     <ClCompile Include="5. 第K大的数.cpp" />
     <ClCompile Include="53. 翻转字符串.cpp" />
@@ -108,6 +110,8 @@
     <ClCompile Include="7. 二叉树的序列化和反序列化.cpp" />
     <ClCompile Include="70. 二叉树的层序遍历II.cpp" />
     <ClCompile Include="78. 最长公共前缀.cpp" />
+    <ClCompile Include="82. 落单的数.cpp" />
+    <ClCompile Include="83. 简单的数II.cpp" />
     <ClCompile Include="876. 连接字符串.cpp" />
     <ClCompile Include="9. Fizz Buzz 问题.cpp" />
     <ClCompile Include="8. 旋转字符串.cpp" />
