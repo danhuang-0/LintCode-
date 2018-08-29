@@ -150,5 +150,11 @@
     <ClCompile Include="17. 子集.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
+    <ClCompile Include="16. 带重复元素的排列.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
+    <ClCompile Include="15. 全排列.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

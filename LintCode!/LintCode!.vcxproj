@@ -81,6 +81,8 @@
     <ClCompile Include="12. 带有最小值操作的栈.cpp" />
     <ClCompile Include="13. Implement strStr().cpp" />
     <ClCompile Include="14. 二分查找.cpp" />
+    <ClCompile Include="15. 全排列.cpp" />
+    <ClCompile Include="16. 带重复元素的排列.cpp" />
     <ClCompile Include="17. 子集.cpp" />
     <ClCompile Include="2. 尾部的0.cpp" />
     <ClCompile Include="28. 搜索二维矩阵.cpp" />
