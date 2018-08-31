@@ -11,6 +11,14 @@
 //     * @return: A list of permutations.
 //     */
 //
+//	bool isExist( vector<int> &nums, int level, int index){
+//		for( int i=level; i<index; i++ ){
+//			if( nums[i] == nums[index])
+//				return true;
+//		}
+//		return false;
+//	}
+//
 //	void Array( int level, vector<int>&nums, vector<vector<int>> &vecRet ) {
 //		if( level == nums.size() ){
 //			vecRet.push_back( nums );
@@ -18,7 +26,7 @@
 //		}
 //		int nSize = nums.size();
 //		for( int i=level; i<nSize; i++){
-//			if( i>level && nums[i]==nums[i-1] )
+//			if( i!=level && isExist( nums, level, i) )
 //				continue;
 //			swap( nums[level], nums[i] );
 //			Array( level+1, nums, vecRet);

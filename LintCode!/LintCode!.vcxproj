@@ -105,9 +105,13 @@
     <ClCompile Include="54. String to Integer (atoi).cpp" />
     <ClCompile Include="56. 两数之和.cpp" />
     <ClCompile Include="6. 合并排序数组II.cpp" />
+    <ClCompile Include="67. 二叉树的中序遍历.cpp" />
     <ClCompile Include="61. 搜索区间.cpp" />
     <ClCompile Include="62. 搜索旋转排序数组.cpp" />
     <ClCompile Include="63. 搜索旋转排序数组 II.cpp" />
+    <ClCompile Include="64. 合并排序数组.cpp" />
+    <ClCompile Include="66. 二叉树的前序遍历.cpp" />
+    <ClCompile Include="68. 二叉树的后序遍历.cpp" />
     <ClCompile Include="69. 二叉树的层序遍历.cpp" />
     <ClCompile Include="7. 二叉树的序列化和反序列化.cpp" />
     <ClCompile Include="70. 二叉树的层序遍历II.cpp" />

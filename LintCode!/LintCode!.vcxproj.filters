@@ -150,10 +150,22 @@
     <ClCompile Include="17. 子集.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
-    <ClCompile Include="16. 带重复元素的排列.cpp">
+    <ClCompile Include="15. 全排列.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="64. 合并排序数组.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="66. 二叉树的前序遍历.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="67. 二叉树的中序遍历.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="68. 二叉树的后序遍历.cpp">
       <Filter>源文件\待解决</Filter>
     </ClCompile>
-    <ClCompile Include="15. 全排列.cpp">
+    <ClCompile Include="16. 带重复元素的排列.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
   </ItemGroup>
