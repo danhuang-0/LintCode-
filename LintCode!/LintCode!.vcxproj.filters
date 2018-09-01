@@ -162,11 +162,17 @@
     <ClCompile Include="67. 二叉树的中序遍历.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
-    <ClCompile Include="68. 二叉树的后序遍历.cpp">
-      <Filter>源文件\待解决</Filter>
-    </ClCompile>
     <ClCompile Include="16. 带重复元素的排列.cpp">
       <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="68. 二叉树的后序遍历.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="47. Majority Element II.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="51. 上一个排列.cpp">
+      <Filter>源文件\待解决</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
