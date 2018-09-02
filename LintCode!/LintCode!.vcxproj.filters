@@ -174,5 +174,14 @@
     <ClCompile Include="51. 上一个排列.cpp">
       <Filter>源文件\待解决</Filter>
     </ClCompile>
+    <ClCompile Include="55. 比较字符串.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="29. 交叉字符串.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="118. 不同的子序列.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
