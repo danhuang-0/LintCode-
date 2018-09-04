@@ -189,5 +189,11 @@
     <ClCompile Include="191. 乘积最大子序列.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="75. 寻找峰值.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="76. 最长上升子序列.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
