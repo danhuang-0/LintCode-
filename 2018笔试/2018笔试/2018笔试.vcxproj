@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{185098F0-51C1-4C74-9CCF-F0F3570CFE33}</ProjectGuid>
+    <RootNamespace>My2018笔试</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="1. 最长公共子序列.cpp" />
+    <ClCompile Include="1. 多线程合作打印.cpp" />
+    <ClCompile Include="1.智能分词 .cpp" />
+    <ClCompile Include="2. 凸多边形.cpp" />
+    <ClCompile Include="2. 最小的K个数.cpp" />
+    <ClCompile Include="2. 杀手.cpp" />
+    <ClCompile Include="4. 最短最优升级路径.cpp" />
+    <ClCompile Include="5. 方块消除游戏.cpp" />
+    <ClCompile Include="6. 源生质数.cpp" />
+    <ClCompile Include="Array.cpp" />
+    <ClCompile Include="K-V.cpp" />
+    <ClCompile Include="丰收.cpp" />
+    <ClCompile Include="丰收2.cpp" />
+    <ClCompile Include="修改成绩.cpp" />
+    <ClCompile Include="区间统计.cpp" />
+    <ClCompile Include="图的遍历.cpp" />
+    <ClCompile Include="城市面积.cpp" />
+    <ClCompile Include="塔.cpp" />
+    <ClCompile Include="大巴车.cpp" />
+    <ClCompile Include="好未来1.cpp" />
+    <ClCompile Include="好未来2.cpp" />
+    <ClCompile Include="好未来3.cpp" />
+    <ClCompile Include="好未来4.cpp" />
+    <ClCompile Include="好未来5.cpp" />
+    <ClCompile Include="好未来6.cpp" />
+    <ClCompile Include="字符串.cpp" />
+    <ClCompile Include="日志查询.cpp" />
+    <ClCompile Include="看花.cpp" />
+    <ClCompile Include="知乎2.cpp" />
+    <ClCompile Include="进制组合.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
