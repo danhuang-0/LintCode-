@@ -128,10 +128,12 @@
     <ClCompile Include="78. 最长公共前缀.cpp" />
     <ClCompile Include="82. 落单的数.cpp" />
     <ClCompile Include="83. 简单的数II.cpp" />
+    <ClCompile Include="865. 移除9.cpp" />
     <ClCompile Include="876. 连接字符串.cpp" />
     <ClCompile Include="9. Fizz Buzz 问题.cpp" />
     <ClCompile Include="8. 旋转字符串.cpp" />
     <ClCompile Include="22. 平面列表.cpp" />
+    <ClCompile Include="90. K数之和.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
