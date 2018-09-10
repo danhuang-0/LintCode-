@@ -18,18 +18,18 @@ public:
      */
 	void DFS( vector<int> &A, int k, int target, int level,
 		int nSum, vector<int> &vecNow, vector<vector<int>> &vecRet ){
-		if( level == k ){
+		if( vecNow.size() == k ){
 			if( nSum == target )
 				vecRet.push_back( vecNow );
-			return;
+			return; 
 		}
 		for( int i=level ; i<A.size(); i++ ){
-			DFS( A, k, target, level + 1, nSum, vecNow, vecRet);
-			vecNow.push_back( A[level] );
-			DFS( A, k, target, level + 1, nSum + A[level], vecNow, vecRet);
+			vecNow.push_back( A[i] );
+			DFS( A, k, target, i + 1, nSum + A[i], vecNow, vecRet);
 			vecNow.pop_back();
 		}
 	}
+	
     vector<vector<int>> kSumII(vector<int> &A, int k, int target) {
         // write your code here
 
@@ -44,9 +44,9 @@ public:
 
 int main (){
 
-	int arr[] = {1,2,3,4};
-	int k = 2;
-	int target = 5;
+	int arr[] = {1,4,5,6,8};
+	int k = 1;
+	int target = 4;
 	Solution s;
 	s.kSumII( vector<int>(begin(arr), end(arr)), k, target);
 	return 0;
