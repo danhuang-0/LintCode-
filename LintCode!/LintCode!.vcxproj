@@ -113,6 +113,8 @@
     <ClCompile Include="55. 比较字符串.cpp" />
     <ClCompile Include="56. 两数之和.cpp" />
     <ClCompile Include="6. 合并排序数组II.cpp" />
+    <ClCompile Include="1188. Minimum Absolute Difference in BST.cpp" />
+    <ClCompile Include="659. Encode and Decode Strings.cpp" />
     <ClCompile Include="67. 二叉树的中序遍历.cpp" />
     <ClCompile Include="61. 搜索区间.cpp" />
     <ClCompile Include="62. 搜索旋转排序数组.cpp" />

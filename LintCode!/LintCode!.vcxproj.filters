@@ -28,6 +28,9 @@
     <Filter Include="源文件\已完成\一位数">
       <UniqueIdentifier>{40ce895c-d006-4471-a0e0-9dd3f04101de}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\已完成\四位数">
+      <UniqueIdentifier>{503f384e-02df-4a46-b87e-1e8fa94e360e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="30. 插入区间.cpp">
@@ -201,8 +204,14 @@
     <ClCompile Include="865. 移除9.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="1188. Minimum Absolute Difference in BST.cpp">
+      <Filter>源文件\已完成\四位数</Filter>
+    </ClCompile>
     <ClCompile Include="90. K数之和.cpp">
-      <Filter>源文件\待解决</Filter>
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="659. Encode and Decode Strings.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
