@@ -127,6 +127,7 @@
     <ClCompile Include="70. 二叉树的层序遍历II.cpp" />
     <ClCompile Include="75. 寻找峰值.cpp" />
     <ClCompile Include="76. 最长上升子序列.cpp" />
+    <ClCompile Include="77. 最长公共子序列.cpp" />
     <ClCompile Include="78. 最长公共前缀.cpp" />
     <ClCompile Include="82. 落单的数.cpp" />
     <ClCompile Include="83. 简单的数II.cpp" />

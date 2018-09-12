@@ -213,5 +213,8 @@
     <ClCompile Include="659. Encode and Decode Strings.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="77. 最长公共子序列.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
