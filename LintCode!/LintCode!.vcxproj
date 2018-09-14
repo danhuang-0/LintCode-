@@ -130,6 +130,7 @@
     <ClCompile Include="76. 最长上升子序列.cpp" />
     <ClCompile Include="77. 最长公共子序列.cpp" />
     <ClCompile Include="78. 最长公共前缀.cpp" />
+    <ClCompile Include="79. 最长公共子串.cpp" />
     <ClCompile Include="82. 落单的数.cpp" />
     <ClCompile Include="83. 简单的数II.cpp" />
     <ClCompile Include="865. 移除9.cpp" />

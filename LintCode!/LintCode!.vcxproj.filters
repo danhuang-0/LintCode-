@@ -222,5 +222,8 @@
     <ClCompile Include="669. 换硬币.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="79. 最长公共子串.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
