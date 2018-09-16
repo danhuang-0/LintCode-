@@ -222,11 +222,14 @@
     <ClCompile Include="669. 换硬币.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
-    <ClCompile Include="79. 最长公共子串.cpp">
-      <Filter>源文件\待解决</Filter>
-    </ClCompile>
     <ClCompile Include="184. 最大数.cpp">
       <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
+    <ClCompile Include="916. 回文排列.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
+    <ClCompile Include="79. 最长公共子串.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

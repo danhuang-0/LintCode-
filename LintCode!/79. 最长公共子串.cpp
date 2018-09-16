@@ -19,7 +19,7 @@
 //		for(int i=0; i<A.size(); i++ )
 //			DP[i] = vector<int>(B.size());
 //		DP[0][0] = A[0]==B[0];
-//		int nMax = 0;
+//		int nMax = DP[0][0];
 //		for( int i=1; i<A.size(); i++){
 //			if( A[i]==B[0] ){
 //				DP[i][0] = 1;
@@ -54,8 +54,8 @@
 //
 //int main (){
 //
-//	string strA("ABCD");
-//	string strB("CBCE");
+//	string strA("abc");
+//	string strB("a");
 //	Solution s;
 //	s.longestCommonSubstring(strA, strB );
 //
