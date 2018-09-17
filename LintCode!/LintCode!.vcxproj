@@ -103,6 +103,7 @@
     <ClCompile Include="39. 恢复旋转排序数组.cpp" />
     <ClCompile Include="40. 用栈实现队列.cpp" />
     <ClCompile Include="41. 最大子数组.cpp" />
+    <ClCompile Include="42. 最大字数组II.cpp" />
     <ClCompile Include="44. 最小子数组.cpp" />
     <ClCompile Include="46. Majority Element.cpp" />
     <ClCompile Include="47. Majority Element II.cpp" />
