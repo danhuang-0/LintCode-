@@ -1,6 +1,5 @@
 //// 实现方式参考69. 二叉树的层序遍历
-//// 就是把层序遍历的结果用 reserve 翻转过来了2333
-////
+//// 就是把层序遍历的结果根据单双 reserve 翻转过来了2333
 //
 //#include <iostream>
 //#include <queue>
@@ -66,7 +65,10 @@
 //			if( pNode->isFirst || !firstHasChild )
 //				firstHasChild = pNode->pNode->left!=NULL || pNode->pNode->right!=NULL;
 //		}
-//		reverse( ret.begin(), ret.end());
+//		for( int i=0; i<ret.size(); i++ ){
+//			if( i%2 != 0 )
+//				reverse( ret[i].begin(), ret[i].end() );
+//		}
 //		return ret;
 //    }
 //};
