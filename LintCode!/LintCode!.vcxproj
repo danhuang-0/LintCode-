@@ -131,13 +131,17 @@
     <ClCompile Include="7. 二叉树的序列化和反序列化.cpp" />
     <ClCompile Include="70. 二叉树的层序遍历II.cpp" />
     <ClCompile Include="71. 二叉树的锯齿形层次遍历.cpp" />
+    <ClCompile Include="74. 第一个错误的代码版本.cpp" />
     <ClCompile Include="75. 寻找峰值.cpp" />
     <ClCompile Include="76. 最长上升子序列.cpp" />
     <ClCompile Include="77. 最长公共子序列.cpp" />
     <ClCompile Include="78. 最长公共前缀.cpp" />
     <ClCompile Include="79. 最长公共子串.cpp" />
+    <ClCompile Include="80. 中位数.cpp" />
     <ClCompile Include="82. 落单的数.cpp" />
+    <ClCompile Include="824. 落单的数 IV.cpp" />
     <ClCompile Include="83. 简单的数II.cpp" />
+    <ClCompile Include="84. 落单的数 III.cpp" />
     <ClCompile Include="865. 移除9.cpp" />
     <ClCompile Include="876. 连接字符串.cpp" />
     <ClCompile Include="9. Fizz Buzz 问题.cpp" />

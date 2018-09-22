@@ -243,5 +243,17 @@
     <ClCompile Include="71. 二叉树的锯齿形层次遍历.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
+    <ClCompile Include="74. 第一个错误的代码版本.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="84. 落单的数 III.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="824. 落单的数 IV.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
+    <ClCompile Include="80. 中位数.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
