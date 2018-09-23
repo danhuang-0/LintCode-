@@ -123,9 +123,6 @@
     <ClCompile Include="63. 搜索旋转排序数组 II.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
-    <ClCompile Include="56. 两数之和.cpp">
-      <Filter>源文件\待解决</Filter>
-    </ClCompile>
     <ClCompile Include="53. 翻转字符串.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
@@ -253,6 +250,21 @@
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
     <ClCompile Include="80. 中位数.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="56. 两数之和.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="93. 平衡二叉树.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="95. 验证二叉查找树.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="448. 二叉查找树的中序后继.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
+    <ClCompile Include="86. 二叉查找树迭代器.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
   </ItemGroup>

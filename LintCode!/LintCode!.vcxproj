@@ -105,6 +105,7 @@
     <ClCompile Include="41. 最大子数组.cpp" />
     <ClCompile Include="42. 最大字数组II.cpp" />
     <ClCompile Include="44. 最小子数组.cpp" />
+    <ClCompile Include="448. 二叉查找树的中序后继.cpp" />
     <ClCompile Include="46. Majority Element.cpp" />
     <ClCompile Include="47. Majority Element II.cpp" />
     <ClCompile Include="48. 主元素 III.cpp" />
@@ -142,6 +143,7 @@
     <ClCompile Include="824. 落单的数 IV.cpp" />
     <ClCompile Include="83. 简单的数II.cpp" />
     <ClCompile Include="84. 落单的数 III.cpp" />
+    <ClCompile Include="86. 二叉查找树迭代器.cpp" />
     <ClCompile Include="865. 移除9.cpp" />
     <ClCompile Include="876. 连接字符串.cpp" />
     <ClCompile Include="9. Fizz Buzz 问题.cpp" />
@@ -149,6 +151,8 @@
     <ClCompile Include="22. 平面列表.cpp" />
     <ClCompile Include="90. K数之和.cpp" />
     <ClCompile Include="916. 回文排列.cpp" />
+    <ClCompile Include="93. 平衡二叉树.cpp" />
+    <ClCompile Include="95. 验证二叉查找树.cpp" />
     <ClCompile Include="976. 4Sum II.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
