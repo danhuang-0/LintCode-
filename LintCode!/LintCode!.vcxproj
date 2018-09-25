@@ -84,6 +84,7 @@
     <ClCompile Include="13. Implement strStr().cpp" />
     <ClCompile Include="14. 二分查找.cpp" />
     <ClCompile Include="15. 全排列.cpp" />
+    <ClCompile Include="155. 二叉树的最小深度.cpp" />
     <ClCompile Include="16. 带重复元素的排列.cpp" />
     <ClCompile Include="17. 子集.cpp" />
     <ClCompile Include="18. 子集II.cpp" />
@@ -120,6 +121,7 @@
     <ClCompile Include="57. 三数之和.cpp" />
     <ClCompile Include="6. 合并排序数组II.cpp" />
     <ClCompile Include="1188. Minimum Absolute Difference in BST.cpp" />
+    <ClCompile Include="650. Find Leaves of Binary Tree.cpp" />
     <ClCompile Include="659. Encode and Decode Strings.cpp" />
     <ClCompile Include="669. 换硬币.cpp" />
     <ClCompile Include="67. 二叉树的中序遍历.cpp" />
@@ -154,7 +156,9 @@
     <ClCompile Include="916. 回文排列.cpp" />
     <ClCompile Include="93. 平衡二叉树.cpp" />
     <ClCompile Include="95. 验证二叉查找树.cpp" />
+    <ClCompile Include="97. 二叉树的最大深度.cpp" />
     <ClCompile Include="976. 4Sum II.cpp" />
+    <ClCompile Include="98. 链表排序.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
