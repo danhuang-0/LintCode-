@@ -282,5 +282,8 @@
     <ClCompile Include="98. 链表排序.cpp">
       <Filter>源文件\待解决</Filter>
     </ClCompile>
+    <ClCompile Include="104. Merge K Sorted Lists.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
