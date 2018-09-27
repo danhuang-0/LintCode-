@@ -98,6 +98,7 @@
     <ClCompile Include="30. 插入区间.cpp" />
     <ClCompile Include="31. 数组划分.cpp" />
     <ClCompile Include="32. 最小子串覆盖.cpp" />
+    <ClCompile Include="33. N皇后问题.cpp" />
     <ClCompile Include="35. 翻转链表.cpp" />
     <ClCompile Include="36. 翻转链表II.cpp" />
     <ClCompile Include="37. 翻转一个3位整数.cpp" />
@@ -106,7 +107,8 @@
     <ClCompile Include="39. 恢复旋转排序数组.cpp" />
     <ClCompile Include="40. 用栈实现队列.cpp" />
     <ClCompile Include="41. 最大子数组.cpp" />
-    <ClCompile Include="42. 最大字数组II.cpp" />
+    <ClCompile Include="42. 最大子数组 II(2).cpp" />
+    <ClCompile Include="42. 最大字数组II%281%29.cpp" />
     <ClCompile Include="44. 最小子数组.cpp" />
     <ClCompile Include="448. 二叉查找树的中序后继.cpp" />
     <ClCompile Include="46. Majority Element.cpp" />
@@ -114,6 +116,7 @@
     <ClCompile Include="48. 主元素 III.cpp" />
     <ClCompile Include="49. 字符大小写排序.cpp" />
     <ClCompile Include="5. 第K大的数.cpp" />
+    <ClCompile Include="50. 数组剔除元素后的乘积.cpp" />
     <ClCompile Include="51. 上一个排列.cpp" />
     <ClCompile Include="53. 翻转字符串.cpp" />
     <ClCompile Include="54. String to Integer (atoi).cpp" />

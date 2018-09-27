@@ -228,9 +228,6 @@
     <ClCompile Include="79. 最长公共子串.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
-    <ClCompile Include="42. 最大字数组II.cpp">
-      <Filter>源文件\待解决</Filter>
-    </ClCompile>
     <ClCompile Include="57. 三数之和.cpp">
       <Filter>源文件\已完成\两位数</Filter>
     </ClCompile>
@@ -284,6 +281,18 @@
     </ClCompile>
     <ClCompile Include="104. Merge K Sorted Lists.cpp">
       <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
+    <ClCompile Include="50. 数组剔除元素后的乘积.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="42. 最大字数组II%281%29.cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="42. 最大子数组 II(2).cpp">
+      <Filter>源文件\已完成\两位数</Filter>
+    </ClCompile>
+    <ClCompile Include="33. N皇后问题.cpp">
+      <Filter>源文件\待解决</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
