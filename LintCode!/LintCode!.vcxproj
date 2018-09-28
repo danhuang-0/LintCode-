@@ -123,6 +123,7 @@
     <ClCompile Include="55. 比较字符串.cpp" />
     <ClCompile Include="56. 两数之和.cpp" />
     <ClCompile Include="57. 三数之和.cpp" />
+    <ClCompile Include="59. 最接近的三数之和.cpp" />
     <ClCompile Include="6. 合并排序数组II.cpp" />
     <ClCompile Include="1188. Minimum Absolute Difference in BST.cpp" />
     <ClCompile Include="650. Find Leaves of Binary Tree.cpp" />
@@ -159,7 +160,9 @@
     <ClCompile Include="90. K数之和.cpp" />
     <ClCompile Include="916. 回文排列.cpp" />
     <ClCompile Include="93. 平衡二叉树.cpp" />
+    <ClCompile Include="94. 二叉树中的最大路径和.cpp" />
     <ClCompile Include="95. 验证二叉查找树.cpp" />
+    <ClCompile Include="96. 链表划分.cpp" />
     <ClCompile Include="97. 二叉树的最大深度.cpp" />
     <ClCompile Include="976. 4Sum II.cpp" />
     <ClCompile Include="98. 链表排序.cpp" />
