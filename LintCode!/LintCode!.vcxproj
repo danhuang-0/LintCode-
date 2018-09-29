@@ -77,9 +77,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1. a+b.cpp" />
+    <ClCompile Include="100. 删除排序数组中的重复数字.cpp" />
+    <ClCompile Include="101. 删除排序数组中的重复数字 II.cpp" />
     <ClCompile Include="102. 带环链表.cpp" />
     <ClCompile Include="104. Merge K Sorted Lists.cpp" />
+    <ClCompile Include="107. 单词拆分 I.cpp" />
     <ClCompile Include="11. 二叉查找树中搜索区间.cpp" />
+    <ClCompile Include="111. 爬楼梯.cpp" />
+    <ClCompile Include="112. 删除排序链表中的重复元素.cpp" />
     <ClCompile Include="118. 不同的子序列.cpp" />
     <ClCompile Include="12. 带有最小值操作的栈.cpp" />
     <ClCompile Include="13. Implement strStr().cpp" />
@@ -111,6 +116,7 @@
     <ClCompile Include="42. 最大字数组II%281%29.cpp" />
     <ClCompile Include="44. 最小子数组.cpp" />
     <ClCompile Include="448. 二叉查找树的中序后继.cpp" />
+    <ClCompile Include="452. 删除链表中的元素.cpp" />
     <ClCompile Include="46. Majority Element.cpp" />
     <ClCompile Include="47. Majority Element II.cpp" />
     <ClCompile Include="48. 主元素 III.cpp" />
@@ -123,6 +129,7 @@
     <ClCompile Include="55. 比较字符串.cpp" />
     <ClCompile Include="56. 两数之和.cpp" />
     <ClCompile Include="57. 三数之和.cpp" />
+    <ClCompile Include="582. 单词拆分II.cpp" />
     <ClCompile Include="59. 最接近的三数之和.cpp" />
     <ClCompile Include="6. 合并排序数组II.cpp" />
     <ClCompile Include="1188. Minimum Absolute Difference in BST.cpp" />
@@ -166,6 +173,7 @@
     <ClCompile Include="97. 二叉树的最大深度.cpp" />
     <ClCompile Include="976. 4Sum II.cpp" />
     <ClCompile Include="98. 链表排序.cpp" />
+    <ClCompile Include="113. 删除排序链表中的重复数字 II.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
