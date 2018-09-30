@@ -83,8 +83,11 @@
     <ClCompile Include="104. Merge K Sorted Lists.cpp" />
     <ClCompile Include="107. 单词拆分 I.cpp" />
     <ClCompile Include="11. 二叉查找树中搜索区间.cpp" />
+    <ClCompile Include="110. 最小路径和.cpp" />
     <ClCompile Include="111. 爬楼梯.cpp" />
     <ClCompile Include="112. 删除排序链表中的重复元素.cpp" />
+    <ClCompile Include="114. 不同的路径.cpp" />
+    <ClCompile Include="115. 不同的路径 II.cpp" />
     <ClCompile Include="118. 不同的子序列.cpp" />
     <ClCompile Include="12. 带有最小值操作的栈.cpp" />
     <ClCompile Include="13. Implement strStr().cpp" />
