@@ -81,6 +81,7 @@
     <ClCompile Include="101. 删除排序数组中的重复数字 II.cpp" />
     <ClCompile Include="102. 带环链表.cpp" />
     <ClCompile Include="104. Merge K Sorted Lists.cpp" />
+    <ClCompile Include="106. Convert Sorted List to Binary Search Tree.cpp" />
     <ClCompile Include="107. 单词拆分 I.cpp" />
     <ClCompile Include="11. 二叉查找树中搜索区间.cpp" />
     <ClCompile Include="110. 最小路径和.cpp" />
