@@ -91,6 +91,7 @@
     <ClCompile Include="115. 不同的路径 II.cpp" />
     <ClCompile Include="118. 不同的子序列.cpp" />
     <ClCompile Include="12. 带有最小值操作的栈.cpp" />
+    <ClCompile Include="124. 最长连续序列.cpp" />
     <ClCompile Include="13. Implement strStr().cpp" />
     <ClCompile Include="14. 二分查找.cpp" />
     <ClCompile Include="15. 全排列.cpp" />
