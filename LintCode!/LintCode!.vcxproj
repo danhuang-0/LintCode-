@@ -163,6 +163,7 @@
     <ClCompile Include="824. 落单的数 IV.cpp" />
     <ClCompile Include="83. 简单的数II.cpp" />
     <ClCompile Include="84. 落单的数 III.cpp" />
+    <ClCompile Include="85. 在二叉查找树中插入节点.cpp" />
     <ClCompile Include="86. 二叉查找树迭代器.cpp" />
     <ClCompile Include="865. 移除9.cpp" />
     <ClCompile Include="876. 连接字符串.cpp" />

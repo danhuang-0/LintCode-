@@ -345,5 +345,8 @@
     <ClCompile Include="124. 最长连续序列.cpp">
       <Filter>源文件\待解决</Filter>
     </ClCompile>
+    <ClCompile Include="85. 在二叉查找树中插入节点.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
