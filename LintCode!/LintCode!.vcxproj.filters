@@ -345,8 +345,11 @@
     <ClCompile Include="124. 最长连续序列.cpp">
       <Filter>源文件\待解决</Filter>
     </ClCompile>
+    <ClCompile Include="105. 复制带随机指针的链表.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
     <ClCompile Include="85. 在二叉查找树中插入节点.cpp">
-      <Filter>源文件\待解决</Filter>
+      <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
