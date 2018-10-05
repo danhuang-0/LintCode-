@@ -351,5 +351,14 @@
     <ClCompile Include="85. 在二叉查找树中插入节点.cpp">
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
+    <ClCompile Include="130. 堆化.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="109. 数字三角形.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="119. 编辑距离.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
