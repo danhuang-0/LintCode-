@@ -360,5 +360,8 @@
     <ClCompile Include="119. 编辑距离.cpp">
       <Filter>源文件\待解决</Filter>
     </ClCompile>
+    <ClCompile Include="129. 重哈希.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

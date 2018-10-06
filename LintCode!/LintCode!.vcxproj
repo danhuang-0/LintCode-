@@ -95,6 +95,7 @@
     <ClCompile Include="119. 编辑距离.cpp" />
     <ClCompile Include="12. 带有最小值操作的栈.cpp" />
     <ClCompile Include="124. 最长连续序列.cpp" />
+    <ClCompile Include="129. 重哈希.cpp" />
     <ClCompile Include="13. Implement strStr().cpp" />
     <ClCompile Include="130. 堆化.cpp" />
     <ClCompile Include="14. 二分查找.cpp" />
