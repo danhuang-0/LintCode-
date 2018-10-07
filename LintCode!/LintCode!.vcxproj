@@ -98,6 +98,7 @@
     <ClCompile Include="129. 重哈希.cpp" />
     <ClCompile Include="13. Implement strStr().cpp" />
     <ClCompile Include="130. 堆化.cpp" />
+    <ClCompile Include="138. 子数组之和.cpp" />
     <ClCompile Include="14. 二分查找.cpp" />
     <ClCompile Include="15. 全排列.cpp" />
     <ClCompile Include="155. 二叉树的最小深度.cpp" />
@@ -124,6 +125,7 @@
     <ClCompile Include="41. 最大子数组.cpp" />
     <ClCompile Include="42. 最大子数组 II(2).cpp" />
     <ClCompile Include="42. 最大字数组II%281%29.cpp" />
+    <ClCompile Include="428. x的n次幂.cpp" />
     <ClCompile Include="44. 最小子数组.cpp" />
     <ClCompile Include="448. 二叉查找树的中序后继.cpp" />
     <ClCompile Include="452. 删除链表中的元素.cpp" />
