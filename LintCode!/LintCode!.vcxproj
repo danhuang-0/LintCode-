@@ -100,6 +100,8 @@
     <ClCompile Include="130. 堆化.cpp" />
     <ClCompile Include="138. 子数组之和.cpp" />
     <ClCompile Include="14. 二分查找.cpp" />
+    <ClCompile Include="140. 快速幂.cpp" />
+    <ClCompile Include="142. O(1)时间检测2的幂次.cpp" />
     <ClCompile Include="15. 全排列.cpp" />
     <ClCompile Include="155. 二叉树的最小深度.cpp" />
     <ClCompile Include="16. 带重复元素的排列.cpp" />
@@ -117,6 +119,7 @@
     <ClCompile Include="33. N皇后问题.cpp" />
     <ClCompile Include="35. 翻转链表.cpp" />
     <ClCompile Include="36. 翻转链表II.cpp" />
+    <ClCompile Include="365. 二进制中有多少个1.cpp" />
     <ClCompile Include="37. 翻转一个3位整数.cpp" />
     <ClCompile Include="375. 克隆二叉树.cpp" />
     <ClCompile Include="38. 搜索二维矩阵.cpp" />
