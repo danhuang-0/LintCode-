@@ -109,6 +109,8 @@
     <ClCompile Include="16. 带重复元素的排列.cpp" />
     <ClCompile Include="17. 子集.cpp" />
     <ClCompile Include="170. 旋转链表.cpp" />
+    <ClCompile Include="171. 乱序字符串.cpp" />
+    <ClCompile Include="172. 删除元素.cpp" />
     <ClCompile Include="18. 子集II.cpp" />
     <ClCompile Include="184. 最大数.cpp" />
     <ClCompile Include="191. 乘积最大子序列.cpp" />

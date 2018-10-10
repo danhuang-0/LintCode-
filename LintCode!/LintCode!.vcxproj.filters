@@ -387,5 +387,11 @@
     <ClCompile Include="149. 买卖股票的最佳时机.cpp">
       <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
+    <ClCompile Include="171. 乱序字符串.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="172. 删除元素.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
