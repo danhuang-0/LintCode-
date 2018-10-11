@@ -393,5 +393,11 @@
     <ClCompile Include="172. 删除元素.cpp">
       <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
+    <ClCompile Include="60. 搜索插入位置.cpp">
+      <Filter>源文件\已完成\10~99</Filter>
+    </ClCompile>
+    <ClCompile Include="88. Lowest Common Ancestor of a Binary Tree.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

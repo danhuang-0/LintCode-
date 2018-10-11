@@ -153,6 +153,7 @@
     <ClCompile Include="59. 最接近的三数之和.cpp" />
     <ClCompile Include="6. 合并排序数组II.cpp" />
     <ClCompile Include="1188. Minimum Absolute Difference in BST.cpp" />
+    <ClCompile Include="60. 搜索插入位置.cpp" />
     <ClCompile Include="650. Find Leaves of Binary Tree.cpp" />
     <ClCompile Include="659. Encode and Decode Strings.cpp" />
     <ClCompile Include="669. 换硬币.cpp" />
@@ -182,6 +183,7 @@
     <ClCompile Include="86. 二叉查找树迭代器.cpp" />
     <ClCompile Include="865. 移除9.cpp" />
     <ClCompile Include="876. 连接字符串.cpp" />
+    <ClCompile Include="88. Lowest Common Ancestor of a Binary Tree.cpp" />
     <ClCompile Include="9. Fizz Buzz 问题.cpp" />
     <ClCompile Include="8. 旋转字符串.cpp" />
     <ClCompile Include="22. 平面列表.cpp" />
