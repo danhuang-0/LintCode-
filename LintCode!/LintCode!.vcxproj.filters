@@ -399,5 +399,11 @@
     <ClCompile Include="88. Lowest Common Ancestor of a Binary Tree.cpp">
       <Filter>源文件\待解决</Filter>
     </ClCompile>
+    <ClCompile Include="178. 图是否是树.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
+    <ClCompile Include="179. 更新二进制位.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

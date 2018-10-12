@@ -111,6 +111,8 @@
     <ClCompile Include="170. 旋转链表.cpp" />
     <ClCompile Include="171. 乱序字符串.cpp" />
     <ClCompile Include="172. 删除元素.cpp" />
+    <ClCompile Include="178. 图是否是树.cpp" />
+    <ClCompile Include="179. 更新二进制位.cpp" />
     <ClCompile Include="18. 子集II.cpp" />
     <ClCompile Include="184. 最大数.cpp" />
     <ClCompile Include="191. 乘积最大子序列.cpp" />
