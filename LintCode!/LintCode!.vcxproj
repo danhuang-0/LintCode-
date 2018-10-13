@@ -128,6 +128,7 @@
     <ClCompile Include="36. 翻转链表II.cpp" />
     <ClCompile Include="365. 二进制中有多少个1.cpp" />
     <ClCompile Include="37. 翻转一个3位整数.cpp" />
+    <ClCompile Include="371. 用递归打印数字.cpp" />
     <ClCompile Include="375. 克隆二叉树.cpp" />
     <ClCompile Include="38. 搜索二维矩阵.cpp" />
     <ClCompile Include="39. 恢复旋转排序数组.cpp" />
