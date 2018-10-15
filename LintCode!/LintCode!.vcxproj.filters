@@ -420,5 +420,8 @@
     <ClCompile Include="103. 带环链表 II.cpp">
       <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
+    <ClCompile Include="166. 链表倒数第n个节点.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
