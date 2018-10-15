@@ -116,6 +116,8 @@
     <ClCompile Include="170. 旋转链表.cpp" />
     <ClCompile Include="171. 乱序字符串.cpp" />
     <ClCompile Include="172. 删除元素.cpp" />
+    <ClCompile Include="174. 删除链表中倒数第n个节点.cpp" />
+    <ClCompile Include="175. 翻转二叉树.cpp" />
     <ClCompile Include="178. 图是否是树.cpp" />
     <ClCompile Include="179. 更新二进制位.cpp" />
     <ClCompile Include="18. 子集II.cpp" />
