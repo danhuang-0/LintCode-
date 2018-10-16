@@ -396,9 +396,6 @@
     <ClCompile Include="60. 搜索插入位置.cpp">
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
-    <ClCompile Include="88. Lowest Common Ancestor of a Binary Tree.cpp">
-      <Filter>源文件\待解决</Filter>
-    </ClCompile>
     <ClCompile Include="178. 图是否是树.cpp">
       <Filter>源文件\待解决</Filter>
     </ClCompile>
@@ -428,6 +425,9 @@
     </ClCompile>
     <ClCompile Include="175. 翻转二叉树.cpp">
       <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="88. Lowest Common Ancestor of a Binary Tree.cpp">
+      <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
