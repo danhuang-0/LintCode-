@@ -36,9 +36,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="30. 插入区间.cpp">
-      <Filter>源文件\待解决</Filter>
-    </ClCompile>
     <ClCompile Include="876. 连接字符串.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
@@ -430,7 +427,10 @@
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
     <ClCompile Include="156. 合并区间.cpp">
-      <Filter>源文件\待解决</Filter>
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="30. 插入区间.cpp">
+      <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
