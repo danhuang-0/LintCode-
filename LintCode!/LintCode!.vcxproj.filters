@@ -432,5 +432,11 @@
     <ClCompile Include="30. 插入区间.cpp">
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
+    <ClCompile Include="72. 中序遍历和后序遍历树构造二叉树.cpp">
+      <Filter>源文件\已完成\10~99</Filter>
+    </ClCompile>
+    <ClCompile Include="73. 前序遍历和中序遍历树构造二叉树.cpp">
+      <Filter>源文件\已完成\10~99</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
