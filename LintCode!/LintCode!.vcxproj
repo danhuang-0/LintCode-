@@ -212,6 +212,7 @@
     <ClCompile Include="976. 4Sum II.cpp" />
     <ClCompile Include="98. 链表排序.cpp" />
     <ClCompile Include="113. 删除排序链表中的重复数字 II.cpp" />
+    <ClCompile Include="99. 重排链表.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

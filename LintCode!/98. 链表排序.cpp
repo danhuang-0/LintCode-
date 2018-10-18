@@ -1,3 +1,8 @@
+//// 用快排做的链表排序
+//// 交换的是链表中的值，不涉及到链表的指针改变，降低复杂度
+//// 值得注意的是链表没办法做 nLeft > nRight 的操作退出
+//// 所以需要在递归调用QuitckSort之前进行判断，是不是走到最后一个了
+//
 //#include <iostream>
 //#include <vector>
 //
@@ -44,12 +49,10 @@
 //		if( pHead == pTail )
 //			return pHead;
 //		ListNode * pLoc = Partition( pHead, pTail );
-//		ListNode * pPre = pHead;
-//		while( pPre != pLoc )
-//			pPre = pPre->next;
-//
-//		QuickSort( pHead, pPre );
-//		QuickSort( pLoc->next, pTail );
+//		
+//		QuickSort( pHead, pLoc );
+//		if( pLoc != pTail )
+//			QuickSort( pLoc->next, pTail );
 //
 //		return pHead;
 //	}
@@ -68,9 +71,9 @@
 //
 //int main (){
 //
-//	vector<ListNode> vecNodes( 10, 0 );
-//	for( int i=1; i<10; i++ ){
-//		vecNodes[i].val = 10 - i;
+//	vector<ListNode> vecNodes( 1000, 0 );
+//	for( int i=1; i<1000; i++ ){
+//		vecNodes[i].val = (500 - i)/2;
 //		vecNodes[i-1].next = &vecNodes[i];
 //	}
 //

@@ -240,9 +240,6 @@
     <ClCompile Include="650. Find Leaves of Binary Tree.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
-    <ClCompile Include="98. 链表排序.cpp">
-      <Filter>源文件\待解决</Filter>
-    </ClCompile>
     <ClCompile Include="50. 数组剔除元素后的乘积.cpp">
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
@@ -443,6 +440,12 @@
     </ClCompile>
     <ClCompile Include="128. 哈希函数.cpp">
       <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="98. 链表排序.cpp">
+      <Filter>源文件\已完成\10~99</Filter>
+    </ClCompile>
+    <ClCompile Include="99. 重排链表.cpp">
+      <Filter>源文件\待解决</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
