@@ -438,5 +438,11 @@
     <ClCompile Include="73. 前序遍历和中序遍历树构造二叉树.cpp">
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
+    <ClCompile Include="58. 四数之和.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
+    <ClCompile Include="128. 哈希函数.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
