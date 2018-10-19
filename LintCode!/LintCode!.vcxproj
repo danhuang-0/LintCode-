@@ -98,6 +98,7 @@
     <ClCompile Include="124. 最长连续序列.cpp" />
     <ClCompile Include="128. 哈希函数.cpp" />
     <ClCompile Include="129. 重哈希.cpp" />
+    <ClCompile Include="1292. Odd Even Linked List.cpp" />
     <ClCompile Include="13. Implement strStr().cpp" />
     <ClCompile Include="130. 堆化.cpp" />
     <ClCompile Include="133. Longest Word.cpp" />
