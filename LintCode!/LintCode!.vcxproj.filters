@@ -147,9 +147,6 @@
     <ClCompile Include="47. Majority Element II.cpp">
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
-    <ClCompile Include="51. 上一个排列.cpp">
-      <Filter>源文件\待解决</Filter>
-    </ClCompile>
     <ClCompile Include="55. 比较字符串.cpp">
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
@@ -452,6 +449,12 @@
     </ClCompile>
     <ClCompile Include="4. 丑数 II.cpp">
       <Filter>源文件\已完成\1~9</Filter>
+    </ClCompile>
+    <ClCompile Include="51. 上一个排列.cpp">
+      <Filter>源文件\已完成\10~99</Filter>
+    </ClCompile>
+    <ClCompile Include="52. 下一个排列.cpp">
+      <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

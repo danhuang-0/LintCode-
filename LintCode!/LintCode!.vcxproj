@@ -157,6 +157,7 @@
     <ClCompile Include="5. 第K大的数.cpp" />
     <ClCompile Include="50. 数组剔除元素后的乘积.cpp" />
     <ClCompile Include="51. 上一个排列.cpp" />
+    <ClCompile Include="52. 下一个排列.cpp" />
     <ClCompile Include="53. 翻转字符串.cpp" />
     <ClCompile Include="54. String to Integer (atoi).cpp" />
     <ClCompile Include="55. 比较字符串.cpp" />

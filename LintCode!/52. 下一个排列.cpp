@@ -1,10 +1,9 @@
-//// 1 3 2 4 5 6 -> 1 2 3 6 5 4
-//// 1 2 3 6 5 4 -> 1 2 3 6 4 5
-//// 1 2 3 6 4 5 -> 1 2 3 5 6 4
-//// 按照字典序的上一个排列
-//// 从后向前扫描，找到第一个升序的位置，记录下来
-//// 向后找到第一个比记录值大的数，
-//// 交换这两个位置，把后续全部翻转
+//// 和51. 上一个排列判断条件正好相反
+//// 51 中是找到第一个逆序的
+//// 本题中是找到第一个顺序的
+//// 51 中是找到第一个比逆序数字小的
+//// 本题中是找到第一个比顺序数组大的
+//// 交换后同样反转后面的数组
 //
 //#include <iostream>
 //#include <vector>
@@ -21,7 +20,7 @@
 //        // write your code here
 //		int index;
 //		for( index = nums.size()-2; index >= 0; index-- ){
-//			if( nums[index+1] < nums[index] )
+//			if( nums[index+1] > nums[index] )
 //				break;
 //		}
 //		// 没找到
@@ -29,7 +28,7 @@
 //			reverse( nums.begin(), nums.end() );
 //		} else {
 //			for( int index2 = nums.size()-1; ; index2-- ){
-//				if( nums[index2] < nums[index] ){
+//				if( nums[index2] > nums[index] ){
 //					swap( nums[index2], nums[index]);
 //					int nBegin = index + 1;
 //					for( int i=nBegin; i<(nBegin+nums.size())/2; i++ ){
@@ -45,8 +44,8 @@
 //
 //int main (){
 //	
-//	//int arr[] = {2,1,1};
-//	int arr[] = {2,1,3};
+//	//int arr[] = {1,3,2,3};
+//	int arr[] = {4,3,2,1};
 //	vector<int> nums( begin(arr), end(arr));
 //	Solution s;
 //	s.previousPermuation( nums );
