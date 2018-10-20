@@ -450,5 +450,8 @@
     <ClCompile Include="1292. Odd Even Linked List.cpp">
       <Filter>源文件\已完成\四位数</Filter>
     </ClCompile>
+    <ClCompile Include="4. 丑数 II.cpp">
+      <Filter>源文件\已完成\1~9</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
