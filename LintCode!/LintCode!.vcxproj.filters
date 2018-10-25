@@ -246,9 +246,6 @@
     <ClCompile Include="42. 最大子数组 II(2).cpp">
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
-    <ClCompile Include="33. N皇后问题.cpp">
-      <Filter>源文件\待解决</Filter>
-    </ClCompile>
     <ClCompile Include="94. 二叉树中的最大路径和.cpp">
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
@@ -454,6 +451,12 @@
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
     <ClCompile Include="52. 下一个排列.cpp">
+      <Filter>源文件\已完成\10~99</Filter>
+    </ClCompile>
+    <ClCompile Include="33. N皇后问题.cpp">
+      <Filter>源文件\已完成\10~99</Filter>
+    </ClCompile>
+    <ClCompile Include="34. N皇后问题 II.cpp">
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
   </ItemGroup>

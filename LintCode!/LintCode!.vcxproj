@@ -134,6 +134,7 @@
     <ClCompile Include="31. 数组划分.cpp" />
     <ClCompile Include="32. 最小子串覆盖.cpp" />
     <ClCompile Include="33. N皇后问题.cpp" />
+    <ClCompile Include="34. N皇后问题 II.cpp" />
     <ClCompile Include="35. 翻转链表.cpp" />
     <ClCompile Include="36. 翻转链表II.cpp" />
     <ClCompile Include="365. 二进制中有多少个1.cpp" />
