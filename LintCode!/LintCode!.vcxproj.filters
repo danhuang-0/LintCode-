@@ -459,5 +459,8 @@
     <ClCompile Include="34. N皇后问题 II.cpp">
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
+    <ClCompile Include="157. 判断字符串是否没有重复字符.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
