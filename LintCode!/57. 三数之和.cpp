@@ -23,7 +23,7 @@
 //					nRight --;
 //				nRight --;
 //			} else if ( vecNums[nLeft] + vecNums[nRight] < -k ){
-//				while( nRight > nRight && vecNums[nLeft] == vecNums[nLeft+1])
+//				while( nRight > nLeft && vecNums[nLeft] == vecNums[nLeft+1])
 //					nLeft ++;
 //				nLeft ++;	
 //			}
@@ -33,7 +33,7 @@
 //				while( nRight > nLeft && vecNums[nRight]==vecNums[nRight-1] )
 //					nRight --;
 //				nRight --;
-//				while( nRight > nRight && vecNums[nLeft] == vecNums[nLeft+1])
+//				while( nRight > nLeft && vecNums[nLeft] == vecNums[nLeft+1])
 //					nLeft ++;
 //				nLeft ++;	
 //			}
