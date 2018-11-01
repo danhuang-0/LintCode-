@@ -149,10 +149,11 @@
     <ClCompile Include="40. 用栈实现队列.cpp" />
     <ClCompile Include="41. 最大子数组.cpp" />
     <ClCompile Include="42. 最大子数组 II(2).cpp" />
-    <ClCompile Include="42. 最大字数组II%281%29.cpp" />
+    <ClCompile Include="42. 最大子数组 II%281%29.cpp" />
     <ClCompile Include="428. x的n次幂.cpp" />
     <ClCompile Include="44. 最小子数组.cpp" />
     <ClCompile Include="448. 二叉查找树的中序后继.cpp" />
+    <ClCompile Include="45. 最大子数组差.cpp" />
     <ClCompile Include="452. 删除链表中的元素.cpp" />
     <ClCompile Include="46. Majority Element.cpp" />
     <ClCompile Include="47. Majority Element II.cpp" />
@@ -203,6 +204,7 @@
     <ClCompile Include="85. 在二叉查找树中插入节点.cpp" />
     <ClCompile Include="86. 二叉查找树迭代器.cpp" />
     <ClCompile Include="865. 移除9.cpp" />
+    <ClCompile Include="87. 删除二叉查找树的节点.cpp" />
     <ClCompile Include="876. 连接字符串.cpp" />
     <ClCompile Include="88. Lowest Common Ancestor of a Binary Tree.cpp" />
     <ClCompile Include="9. Fizz Buzz 问题.cpp" />
