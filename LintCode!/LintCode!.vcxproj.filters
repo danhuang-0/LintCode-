@@ -472,7 +472,7 @@
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
     <ClCompile Include="87. 删除二叉查找树的节点.cpp">
-      <Filter>源文件\待解决</Filter>
+      <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
