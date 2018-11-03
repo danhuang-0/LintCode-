@@ -102,6 +102,7 @@
     <ClCompile Include="13. Implement strStr().cpp" />
     <ClCompile Include="130. 堆化.cpp" />
     <ClCompile Include="133. Longest Word.cpp" />
+    <ClCompile Include="135. 数字组合.cpp" />
     <ClCompile Include="138. 子数组之和.cpp" />
     <ClCompile Include="14. 二分查找.cpp" />
     <ClCompile Include="140. 快速幂.cpp" />
