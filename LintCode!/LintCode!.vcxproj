@@ -114,6 +114,7 @@
     <ClCompile Include="155. 二叉树的最小深度.cpp" />
     <ClCompile Include="156. 合并区间.cpp" />
     <ClCompile Include="157. 判断字符串是否没有重复字符.cpp" />
+    <ClCompile Include="159. 寻找旋转排序数组中的最小值.cpp" />
     <ClCompile Include="16. 带重复元素的排列.cpp" />
     <ClCompile Include="165. 合并两个排序链表.cpp" />
     <ClCompile Include="166. 链表倒数第n个节点.cpp" />

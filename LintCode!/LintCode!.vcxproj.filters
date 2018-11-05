@@ -477,5 +477,8 @@
     <ClCompile Include="135. 数字组合.cpp">
       <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
+    <ClCompile Include="159. 寻找旋转排序数组中的最小值.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
