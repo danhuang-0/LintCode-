@@ -117,6 +117,8 @@
     <ClCompile Include="159. 寻找旋转排序数组中的最小值.cpp" />
     <ClCompile Include="16. 带重复元素的排列.cpp" />
     <ClCompile Include="160. 寻找旋转排序数组中的最小值 II.cpp" />
+    <ClCompile Include="161. 旋转图像.cpp" />
+    <ClCompile Include="162. 矩阵归零.cpp" />
     <ClCompile Include="165. 合并两个排序链表.cpp" />
     <ClCompile Include="166. 链表倒数第n个节点.cpp" />
     <ClCompile Include="17. 子集.cpp" />
