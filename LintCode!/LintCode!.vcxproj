@@ -114,6 +114,7 @@
     <ClCompile Include="155. 二叉树的最小深度.cpp" />
     <ClCompile Include="156. 合并区间.cpp" />
     <ClCompile Include="157. 判断字符串是否没有重复字符.cpp" />
+    <ClCompile Include="158. 两个字符串是变位词.cpp" />
     <ClCompile Include="159. 寻找旋转排序数组中的最小值.cpp" />
     <ClCompile Include="16. 带重复元素的排列.cpp" />
     <ClCompile Include="160. 寻找旋转排序数组中的最小值 II.cpp" />
@@ -121,6 +122,7 @@
     <ClCompile Include="162. 矩阵归零.cpp" />
     <ClCompile Include="165. 合并两个排序链表.cpp" />
     <ClCompile Include="166. 链表倒数第n个节点.cpp" />
+    <ClCompile Include="167. 链表求和.cpp" />
     <ClCompile Include="17. 子集.cpp" />
     <ClCompile Include="170. 旋转链表.cpp" />
     <ClCompile Include="171. 乱序字符串.cpp" />
