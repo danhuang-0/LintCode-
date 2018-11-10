@@ -109,6 +109,7 @@
     <ClCompile Include="141. x的平方根.cpp" />
     <ClCompile Include="142. O(1)时间检测2的幂次.cpp" />
     <ClCompile Include="144. 交错正负数.cpp" />
+    <ClCompile Include="148. 颜色分类.cpp" />
     <ClCompile Include="149. 买卖股票的最佳时机.cpp" />
     <ClCompile Include="15. 全排列.cpp" />
     <ClCompile Include="155. 二叉树的最小深度.cpp" />

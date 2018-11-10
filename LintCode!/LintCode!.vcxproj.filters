@@ -493,7 +493,10 @@
       <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
     <ClCompile Include="167. 链表求和.cpp">
-      <Filter>源文件\待解决</Filter>
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="148. 颜色分类.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
