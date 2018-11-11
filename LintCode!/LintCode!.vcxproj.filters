@@ -498,5 +498,17 @@
     <ClCompile Include="148. 颜色分类.cpp">
       <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
+    <ClCompile Include="189. 丢失的第一个正整数.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="187. 加油站.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
+    <ClCompile Include="153. 数字组合 II.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="143. 排颜色 II.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
