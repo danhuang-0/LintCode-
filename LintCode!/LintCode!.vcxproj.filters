@@ -513,5 +513,8 @@
     <ClCompile Include="152. 组合.cpp">
       <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
+    <ClCompile Include="177. 把排序数组转换为高度最小的二叉搜索树.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

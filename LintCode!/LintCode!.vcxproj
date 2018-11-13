@@ -133,6 +133,7 @@
     <ClCompile Include="172. 删除元素.cpp" />
     <ClCompile Include="174. 删除链表中倒数第n个节点.cpp" />
     <ClCompile Include="175. 翻转二叉树.cpp" />
+    <ClCompile Include="177. 把排序数组转换为高度最小的二叉搜索树.cpp" />
     <ClCompile Include="178. 图是否是树.cpp" />
     <ClCompile Include="179. 更新二进制位.cpp" />
     <ClCompile Include="18. 子集II.cpp" />
