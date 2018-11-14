@@ -34,6 +34,9 @@
     <Filter Include="源文件\已完成\10~99">
       <UniqueIdentifier>{33a25a1e-87df-413f-8143-fa0f30b17f02}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\已完成\200~299">
+      <UniqueIdentifier>{cd102cc0-61f4-4eae-93cb-2c3258af0176}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="876. 连接字符串.cpp">
@@ -459,9 +462,6 @@
     <ClCompile Include="181. 将整数A转换为B.cpp">
       <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
-    <ClCompile Include="209. 第一个只出现一次的字符.cpp">
-      <Filter>源文件\已完成\三位数</Filter>
-    </ClCompile>
     <ClCompile Include="58. 四数之和.cpp">
       <Filter>源文件\已完成\10~99</Filter>
     </ClCompile>
@@ -507,14 +507,26 @@
     <ClCompile Include="153. 数字组合 II.cpp">
       <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
-    <ClCompile Include="143. 排颜色 II.cpp">
-      <Filter>源文件\待解决</Filter>
-    </ClCompile>
     <ClCompile Include="152. 组合.cpp">
       <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
     <ClCompile Include="177. 把排序数组转换为高度最小的二叉搜索树.cpp">
       <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="190. 下一个排列.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="143. 排颜色 II.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="196. Missing Number.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="206. 区间求和 I.cpp">
+      <Filter>源文件\已完成\200~299</Filter>
+    </ClCompile>
+    <ClCompile Include="209. 第一个只出现一次的字符.cpp">
+      <Filter>源文件\已完成\200~299</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

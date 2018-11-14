@@ -141,8 +141,11 @@
     <ClCompile Include="184. 最大数.cpp" />
     <ClCompile Include="187. 加油站.cpp" />
     <ClCompile Include="189. 丢失的第一个正整数.cpp" />
+    <ClCompile Include="190. 下一个排列.cpp" />
     <ClCompile Include="191. 乘积最大子序列.cpp" />
+    <ClCompile Include="196. Missing Number.cpp" />
     <ClCompile Include="2. 尾部的0.cpp" />
+    <ClCompile Include="206. 区间求和 I.cpp" />
     <ClCompile Include="209. 第一个只出现一次的字符.cpp" />
     <ClCompile Include="28. 搜索二维矩阵.cpp" />
     <ClCompile Include="29. 交叉字符串.cpp" />
