@@ -528,5 +528,8 @@
     <ClCompile Include="209. 第一个只出现一次的字符.cpp">
       <Filter>源文件\已完成\200~299</Filter>
     </ClCompile>
+    <ClCompile Include="211. 字符串置换.cpp">
+      <Filter>源文件\已完成\200~299</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
