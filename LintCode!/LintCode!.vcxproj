@@ -148,6 +148,8 @@
     <ClCompile Include="206. 区间求和 I.cpp" />
     <ClCompile Include="209. 第一个只出现一次的字符.cpp" />
     <ClCompile Include="211. 字符串置换.cpp" />
+    <ClCompile Include="212. 空格替换.cpp" />
+    <ClCompile Include="213. 字符串压缩.cpp" />
     <ClCompile Include="28. 搜索二维矩阵.cpp" />
     <ClCompile Include="29. 交叉字符串.cpp" />
     <ClCompile Include="3. 统计数字.cpp" />

@@ -531,5 +531,11 @@
     <ClCompile Include="211. 字符串置换.cpp">
       <Filter>源文件\已完成\200~299</Filter>
     </ClCompile>
+    <ClCompile Include="213. 字符串压缩.cpp">
+      <Filter>源文件\已完成\200~299</Filter>
+    </ClCompile>
+    <ClCompile Include="212. 空格替换.cpp">
+      <Filter>源文件\已完成\200~299</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
