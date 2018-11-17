@@ -95,6 +95,7 @@
     <ClCompile Include="118. 不同的子序列.cpp" />
     <ClCompile Include="119. 编辑距离.cpp" />
     <ClCompile Include="12. 带有最小值操作的栈.cpp" />
+    <ClCompile Include="123. 单词搜索.cpp" />
     <ClCompile Include="124. 最长连续序列.cpp" />
     <ClCompile Include="128. 哈希函数.cpp" />
     <ClCompile Include="129. 重哈希.cpp" />
@@ -139,6 +140,7 @@
     <ClCompile Include="18. 子集II.cpp" />
     <ClCompile Include="181. 将整数A转换为B.cpp" />
     <ClCompile Include="184. 最大数.cpp" />
+    <ClCompile Include="185. 矩阵的之字型遍历.cpp" />
     <ClCompile Include="187. 加油站.cpp" />
     <ClCompile Include="189. 丢失的第一个正整数.cpp" />
     <ClCompile Include="190. 下一个排列.cpp" />

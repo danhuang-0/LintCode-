@@ -537,5 +537,11 @@
     <ClCompile Include="212. 空格替换.cpp">
       <Filter>源文件\已完成\200~299</Filter>
     </ClCompile>
+    <ClCompile Include="185. 矩阵的之字型遍历.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="123. 单词搜索.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
