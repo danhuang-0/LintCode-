@@ -37,6 +37,9 @@
     <Filter Include="源文件\已完成\200~299">
       <UniqueIdentifier>{cd102cc0-61f4-4eae-93cb-2c3258af0176}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\已完成\300~399">
+      <UniqueIdentifier>{486c6ad1-117d-4176-80c8-92b5e24232e5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="876. 连接字符串.cpp">
@@ -158,9 +161,6 @@
     </ClCompile>
     <ClCompile Include="118. 不同的子序列.cpp">
       <Filter>源文件\待解决</Filter>
-    </ClCompile>
-    <ClCompile Include="375. 克隆二叉树.cpp">
-      <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
     <ClCompile Include="75. 寻找峰值.cpp">
       <Filter>源文件\已完成\10~99</Filter>
@@ -360,9 +360,6 @@
     <ClCompile Include="142. O(1)时间检测2的幂次.cpp">
       <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
-    <ClCompile Include="365. 二进制中有多少个1.cpp">
-      <Filter>源文件\已完成\三位数</Filter>
-    </ClCompile>
     <ClCompile Include="140. 快速幂.cpp">
       <Filter>源文件\已完成\100~199</Filter>
     </ClCompile>
@@ -389,9 +386,6 @@
     </ClCompile>
     <ClCompile Include="179. 更新二进制位.cpp">
       <Filter>源文件\已完成\100~199</Filter>
-    </ClCompile>
-    <ClCompile Include="371. 用递归打印数字.cpp">
-      <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
     <ClCompile Include="165. 合并两个排序链表.cpp">
       <Filter>源文件\已完成\100~199</Filter>
@@ -542,6 +536,24 @@
     </ClCompile>
     <ClCompile Include="123. 单词搜索.cpp">
       <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
+    <ClCompile Include="24. LFU缓存.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
+    <ClCompile Include="365. 二进制中有多少个1.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
+    </ClCompile>
+    <ClCompile Include="371. 用递归打印数字.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
+    </ClCompile>
+    <ClCompile Include="372. Delete Node in a Linked List.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
+    </ClCompile>
+    <ClCompile Include="373. 奇偶分割数组.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
+    </ClCompile>
+    <ClCompile Include="375. 克隆二叉树.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
