@@ -153,6 +153,7 @@
     <ClCompile Include="212. 空格替换.cpp" />
     <ClCompile Include="213. 字符串压缩.cpp" />
     <ClCompile Include="24. LFU缓存.cpp" />
+    <ClCompile Include="245. 子树.cpp" />
     <ClCompile Include="28. 搜索二维矩阵.cpp" />
     <ClCompile Include="29. 交叉字符串.cpp" />
     <ClCompile Include="3. 统计数字.cpp" />
@@ -169,6 +170,7 @@
     <ClCompile Include="372. Delete Node in a Linked List.cpp" />
     <ClCompile Include="373. 奇偶分割数组.cpp" />
     <ClCompile Include="375. 克隆二叉树.cpp" />
+    <ClCompile Include="376. 二叉树的路径和.cpp" />
     <ClCompile Include="38. 搜索二维矩阵.cpp" />
     <ClCompile Include="39. 恢复旋转排序数组.cpp" />
     <ClCompile Include="40. 用栈实现队列.cpp" />

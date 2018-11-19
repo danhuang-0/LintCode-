@@ -555,5 +555,11 @@
     <ClCompile Include="375. 克隆二叉树.cpp">
       <Filter>源文件\已完成\300~399</Filter>
     </ClCompile>
+    <ClCompile Include="245. 子树.cpp">
+      <Filter>源文件\已完成\200~299</Filter>
+    </ClCompile>
+    <ClCompile Include="376. 二叉树的路径和.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
