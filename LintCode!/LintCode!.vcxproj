@@ -171,7 +171,10 @@
     <ClCompile Include="373. 奇偶分割数组.cpp" />
     <ClCompile Include="375. 克隆二叉树.cpp" />
     <ClCompile Include="376. 二叉树的路径和.cpp" />
+    <ClCompile Include="378. 将二叉查找树转换成双链表.cpp" />
     <ClCompile Include="38. 搜索二维矩阵.cpp" />
+    <ClCompile Include="380. 两个链表的交叉.cpp" />
+    <ClCompile Include="382. 三角形计数.cpp" />
     <ClCompile Include="39. 恢复旋转排序数组.cpp" />
     <ClCompile Include="40. 用栈实现队列.cpp" />
     <ClCompile Include="41. 最大子数组.cpp" />

@@ -561,5 +561,14 @@
     <ClCompile Include="376. 二叉树的路径和.cpp">
       <Filter>源文件\已完成\300~399</Filter>
     </ClCompile>
+    <ClCompile Include="380. 两个链表的交叉.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
+    </ClCompile>
+    <ClCompile Include="378. 将二叉查找树转换成双链表.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
+    </ClCompile>
+    <ClCompile Include="382. 三角形计数.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
