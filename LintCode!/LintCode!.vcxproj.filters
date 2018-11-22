@@ -570,5 +570,11 @@
     <ClCompile Include="382. 三角形计数.cpp">
       <Filter>源文件\已完成\300~399</Filter>
     </ClCompile>
+    <ClCompile Include="386. 最多有k个不同字符的最长子字符串.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
+    </ClCompile>
+    <ClCompile Include="394. 硬币排成线.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
