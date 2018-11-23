@@ -175,6 +175,7 @@
     <ClCompile Include="38. 搜索二维矩阵.cpp" />
     <ClCompile Include="380. 两个链表的交叉.cpp" />
     <ClCompile Include="382. 三角形计数.cpp" />
+    <ClCompile Include="384. 最长无重复字符的子串.cpp" />
     <ClCompile Include="386. 最多有k个不同字符的最长子字符串.cpp" />
     <ClCompile Include="39. 恢复旋转排序数组.cpp" />
     <ClCompile Include="394. 硬币排成线.cpp" />
