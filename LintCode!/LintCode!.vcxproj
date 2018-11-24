@@ -138,7 +138,9 @@
     <ClCompile Include="178. 图是否是树.cpp" />
     <ClCompile Include="179. 更新二进制位.cpp" />
     <ClCompile Include="18. 子集II.cpp" />
+    <ClCompile Include="180. 二进制表示.cpp" />
     <ClCompile Include="181. 将整数A转换为B.cpp" />
+    <ClCompile Include="183. 木材加工.cpp" />
     <ClCompile Include="184. 最大数.cpp" />
     <ClCompile Include="185. 矩阵的之字型遍历.cpp" />
     <ClCompile Include="187. 加油站.cpp" />
