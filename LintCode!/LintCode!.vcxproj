@@ -181,7 +181,9 @@
     <ClCompile Include="386. 最多有k个不同字符的最长子字符串.cpp" />
     <ClCompile Include="39. 恢复旋转排序数组.cpp" />
     <ClCompile Include="394. 硬币排成线.cpp" />
+    <ClCompile Include="397. 最长上升连续子序列.cpp" />
     <ClCompile Include="40. 用栈实现队列.cpp" />
+    <ClCompile Include="402. 连续子数组求和.cpp" />
     <ClCompile Include="41. 最大子数组.cpp" />
     <ClCompile Include="42. 最大子数组 II(2).cpp" />
     <ClCompile Include="42. 最大子数组 II%281%29.cpp" />
