@@ -184,6 +184,8 @@
     <ClCompile Include="397. 最长上升连续子序列.cpp" />
     <ClCompile Include="40. 用栈实现队列.cpp" />
     <ClCompile Include="402. 连续子数组求和.cpp" />
+    <ClCompile Include="407. 加一.cpp" />
+    <ClCompile Include="408. 二进制求和.cpp" />
     <ClCompile Include="41. 最大子数组.cpp" />
     <ClCompile Include="42. 最大子数组 II(2).cpp" />
     <ClCompile Include="42. 最大子数组 II%281%29.cpp" />
