@@ -150,6 +150,7 @@
     <ClCompile Include="196. Missing Number.cpp" />
     <ClCompile Include="2. 尾部的0.cpp" />
     <ClCompile Include="206. 区间求和 I.cpp" />
+    <ClCompile Include="208. 赋值运算符重载.cpp" />
     <ClCompile Include="209. 第一个只出现一次的字符.cpp" />
     <ClCompile Include="211. 字符串置换.cpp" />
     <ClCompile Include="212. 空格替换.cpp" />
@@ -179,6 +180,7 @@
     <ClCompile Include="382. 三角形计数.cpp" />
     <ClCompile Include="384. 最长无重复字符的子串.cpp" />
     <ClCompile Include="386. 最多有k个不同字符的最长子字符串.cpp" />
+    <ClCompile Include="387. 最小差.cpp" />
     <ClCompile Include="39. 恢复旋转排序数组.cpp" />
     <ClCompile Include="394. 硬币排成线.cpp" />
     <ClCompile Include="397. 最长上升连续子序列.cpp" />

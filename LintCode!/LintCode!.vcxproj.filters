@@ -600,5 +600,11 @@
     <ClCompile Include="413. 反转整数.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="208. 赋值运算符重载.cpp">
+      <Filter>源文件\已完成\200~299</Filter>
+    </ClCompile>
+    <ClCompile Include="387. 最小差.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
