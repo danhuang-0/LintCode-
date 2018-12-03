@@ -132,6 +132,7 @@
     <ClCompile Include="170. 旋转链表.cpp" />
     <ClCompile Include="171. 乱序字符串.cpp" />
     <ClCompile Include="172. 删除元素.cpp" />
+    <ClCompile Include="173. 链表插入排序.cpp" />
     <ClCompile Include="174. 删除链表中倒数第n个节点.cpp" />
     <ClCompile Include="175. 翻转二叉树.cpp" />
     <ClCompile Include="177. 把排序数组转换为高度最小的二叉搜索树.cpp" />

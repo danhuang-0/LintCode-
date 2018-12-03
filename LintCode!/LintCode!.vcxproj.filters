@@ -612,5 +612,8 @@
     <ClCompile Include="381. 螺旋矩阵 II.cpp">
       <Filter>源文件\已完成\300~399</Filter>
     </ClCompile>
+    <ClCompile Include="173. 链表插入排序.cpp">
+      <Filter>源文件\已完成\100~199</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
