@@ -195,6 +195,7 @@
     <ClCompile Include="413. 反转整数.cpp" />
     <ClCompile Include="42. 最大子数组 II(2).cpp" />
     <ClCompile Include="42. 最大子数组 II%281%29.cpp" />
+    <ClCompile Include="422. 最后一个单词的长度.cpp" />
     <ClCompile Include="428. x的n次幂.cpp" />
     <ClCompile Include="44. 最小子数组.cpp" />
     <ClCompile Include="448. 二叉查找树的中序后继.cpp" />
