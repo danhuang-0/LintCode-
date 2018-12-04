@@ -618,5 +618,8 @@
     <ClCompile Include="422. 最后一个单词的长度.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="423. 有效的括号序列.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
