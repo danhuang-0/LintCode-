@@ -621,5 +621,8 @@
     <ClCompile Include="423. 有效的括号序列.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="424. 逆波兰表达式求值.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
