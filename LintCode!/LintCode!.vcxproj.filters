@@ -624,5 +624,11 @@
     <ClCompile Include="424. 逆波兰表达式求值.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="427. 生成括号.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
+    <ClCompile Include="445. 余弦相似度.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
