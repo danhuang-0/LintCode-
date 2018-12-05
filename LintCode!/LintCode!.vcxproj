@@ -205,6 +205,7 @@
     <ClCompile Include="448. 二叉查找树的中序后继.cpp" />
     <ClCompile Include="45. 最大子数组差.cpp" />
     <ClCompile Include="452. 删除链表中的元素.cpp" />
+    <ClCompile Include="457. 经典二分查找问题.cpp" />
     <ClCompile Include="46. Majority Element.cpp" />
     <ClCompile Include="47. Majority Element II.cpp" />
     <ClCompile Include="48. 主元素 III.cpp" />
