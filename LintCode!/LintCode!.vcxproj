@@ -201,6 +201,7 @@
     <ClCompile Include="427. 生成括号.cpp" />
     <ClCompile Include="428. x的n次幂.cpp" />
     <ClCompile Include="44. 最小子数组.cpp" />
+    <ClCompile Include="442. 实现 Trie（前缀树）.cpp" />
     <ClCompile Include="445. 余弦相似度.cpp" />
     <ClCompile Include="448. 二叉查找树的中序后继.cpp" />
     <ClCompile Include="45. 最大子数组差.cpp" />
@@ -211,6 +212,7 @@
     <ClCompile Include="479. 数组第二大数.cpp" />
     <ClCompile Include="48. 主元素 III.cpp" />
     <ClCompile Include="49. 字符大小写排序.cpp" />
+    <ClCompile Include="496. 玩具工厂.cpp" />
     <ClCompile Include="5. 第K大的数.cpp" />
     <ClCompile Include="50. 数组剔除元素后的乘积.cpp" />
     <ClCompile Include="51. 上一个排列.cpp" />
