@@ -642,5 +642,8 @@
     <ClCompile Include="442. 实现 Trie（前缀树）.cpp">
       <Filter>源文件\待解决</Filter>
     </ClCompile>
+    <ClCompile Include="474. 最近公共祖先 II.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
