@@ -645,5 +645,8 @@
     <ClCompile Include="474. 最近公共祖先 II.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="469. Same Tree.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
