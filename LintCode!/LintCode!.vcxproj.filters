@@ -651,5 +651,8 @@
     <ClCompile Include="370. 将表达式转换为逆波兰表达式.cpp">
       <Filter>源文件\已完成\300~399</Filter>
     </ClCompile>
+    <ClCompile Include="491. 回文数.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

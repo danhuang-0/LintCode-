@@ -215,6 +215,7 @@
     <ClCompile Include="479. 数组第二大数.cpp" />
     <ClCompile Include="48. 主元素 III.cpp" />
     <ClCompile Include="49. 字符大小写排序.cpp" />
+    <ClCompile Include="491. 回文数.cpp" />
     <ClCompile Include="496. 玩具工厂.cpp" />
     <ClCompile Include="5. 第K大的数.cpp" />
     <ClCompile Include="50. 数组剔除元素后的乘积.cpp" />
