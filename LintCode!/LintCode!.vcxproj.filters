@@ -654,5 +654,8 @@
     <ClCompile Include="491. 回文数.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="495. 实现栈.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
