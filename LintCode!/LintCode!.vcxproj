@@ -169,6 +169,7 @@
     <ClCompile Include="35. 翻转链表.cpp" />
     <ClCompile Include="36. 翻转链表II.cpp" />
     <ClCompile Include="365. 二进制中有多少个1.cpp" />
+    <ClCompile Include="368. 表达式求值.cpp" />
     <ClCompile Include="37. 翻转一个3位整数.cpp" />
     <ClCompile Include="370. 将表达式转换为逆波兰表达式.cpp" />
     <ClCompile Include="371. 用递归打印数字.cpp" />

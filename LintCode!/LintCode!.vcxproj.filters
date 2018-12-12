@@ -657,5 +657,8 @@
     <ClCompile Include="495. 实现栈.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="368. 表达式求值.cpp">
+      <Filter>源文件\已完成\300~399</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
