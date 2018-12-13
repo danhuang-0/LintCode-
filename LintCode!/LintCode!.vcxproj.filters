@@ -660,5 +660,8 @@
     <ClCompile Include="368. 表达式求值.cpp">
       <Filter>源文件\已完成\300~399</Filter>
     </ClCompile>
+    <ClCompile Include="514. 栅栏染色.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
