@@ -663,5 +663,8 @@
     <ClCompile Include="514. 栅栏染色.cpp">
       <Filter>源文件\待解决</Filter>
     </ClCompile>
+    <ClCompile Include="517. 丑数.cpp">
+      <Filter>源文件\待解决</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

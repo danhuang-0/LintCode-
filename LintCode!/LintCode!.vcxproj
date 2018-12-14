@@ -223,6 +223,7 @@
     <ClCompile Include="50. 数组剔除元素后的乘积.cpp" />
     <ClCompile Include="51. 上一个排列.cpp" />
     <ClCompile Include="514. 栅栏染色.cpp" />
+    <ClCompile Include="517. 丑数.cpp" />
     <ClCompile Include="52. 下一个排列.cpp" />
     <ClCompile Include="53. 翻转字符串.cpp" />
     <ClCompile Include="54. String to Integer (atoi).cpp" />
