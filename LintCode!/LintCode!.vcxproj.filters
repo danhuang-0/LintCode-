@@ -664,6 +664,12 @@
       <Filter>源文件\待解决</Filter>
     </ClCompile>
     <ClCompile Include="517. 丑数.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
+    <ClCompile Include="464. 整数排序 II.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
+    <ClCompile Include="453. 将二叉树拆成链表.cpp">
       <Filter>源文件\待解决</Filter>
     </ClCompile>
   </ItemGroup>
