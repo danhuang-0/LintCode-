@@ -168,6 +168,7 @@
     <ClCompile Include="34. N皇后问题 II.cpp" />
     <ClCompile Include="35. 翻转链表.cpp" />
     <ClCompile Include="36. 翻转链表II.cpp" />
+    <ClCompile Include="360. 滑动窗口的中位数.cpp" />
     <ClCompile Include="365. 二进制中有多少个1.cpp" />
     <ClCompile Include="368. 表达式求值.cpp" />
     <ClCompile Include="37. 翻转一个3位整数.cpp" />
