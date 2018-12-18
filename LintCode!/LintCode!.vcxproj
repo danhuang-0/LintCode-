@@ -201,6 +201,7 @@
     <ClCompile Include="422. 最后一个单词的长度.cpp" />
     <ClCompile Include="423. 有效的括号序列.cpp" />
     <ClCompile Include="424. 逆波兰表达式求值.cpp" />
+    <ClCompile Include="425. 电话号码的字母组合.cpp" />
     <ClCompile Include="427. 生成括号.cpp" />
     <ClCompile Include="428. x的n次幂.cpp" />
     <ClCompile Include="44. 最小子数组.cpp" />
