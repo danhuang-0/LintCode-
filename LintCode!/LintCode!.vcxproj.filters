@@ -681,5 +681,8 @@
     <ClCompile Include="425. 电话号码的字母组合.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="524. 左填充.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

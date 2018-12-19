@@ -289,6 +289,7 @@
     <ClCompile Include="113. 删除排序链表中的重复数字 II.cpp" />
     <ClCompile Include="99. 重排链表.cpp" />
     <ClCompile Include="4. 丑数 II.cpp" />
+    <ClCompile Include="524. 左填充.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
