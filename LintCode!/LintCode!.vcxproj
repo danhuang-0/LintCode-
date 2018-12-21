@@ -227,6 +227,7 @@
     <ClCompile Include="5. 第K大的数.cpp" />
     <ClCompile Include="50. 数组剔除元素后的乘积.cpp" />
     <ClCompile Include="51. 上一个排列.cpp" />
+    <ClCompile Include="513. 完美平方.cpp" />
     <ClCompile Include="514. 栅栏染色.cpp" />
     <ClCompile Include="517. 丑数.cpp" />
     <ClCompile Include="52. 下一个排列.cpp" />
