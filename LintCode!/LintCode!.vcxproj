@@ -220,6 +220,7 @@
     <ClCompile Include="474. 最近公共祖先 II.cpp" />
     <ClCompile Include="479. 数组第二大数.cpp" />
     <ClCompile Include="48. 主元素 III.cpp" />
+    <ClCompile Include="488. 快乐数.cpp" />
     <ClCompile Include="49. 字符大小写排序.cpp" />
     <ClCompile Include="491. 回文数.cpp" />
     <ClCompile Include="495. 实现栈.cpp" />
@@ -227,6 +228,7 @@
     <ClCompile Include="5. 第K大的数.cpp" />
     <ClCompile Include="50. 数组剔除元素后的乘积.cpp" />
     <ClCompile Include="51. 上一个排列.cpp" />
+    <ClCompile Include="511. 交换链表当中两个节点.cpp" />
     <ClCompile Include="513. 完美平方.cpp" />
     <ClCompile Include="514. 栅栏染色.cpp" />
     <ClCompile Include="517. 丑数.cpp" />

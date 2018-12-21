@@ -687,5 +687,11 @@
     <ClCompile Include="513. 完美平方.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="488. 快乐数.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
+    <ClCompile Include="511. 交换链表当中两个节点.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
