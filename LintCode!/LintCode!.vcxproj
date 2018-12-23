@@ -234,6 +234,7 @@
     <ClCompile Include="517. 丑数.cpp" />
     <ClCompile Include="52. 下一个排列.cpp" />
     <ClCompile Include="53. 翻转字符串.cpp" />
+    <ClCompile Include="539. 移动零.cpp" />
     <ClCompile Include="54. String to Integer (atoi).cpp" />
     <ClCompile Include="544. 前K大数.cpp" />
     <ClCompile Include="55. 比较字符串.cpp" />
