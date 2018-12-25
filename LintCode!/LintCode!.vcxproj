@@ -238,6 +238,7 @@
     <ClCompile Include="54. String to Integer (atoi).cpp" />
     <ClCompile Include="540. 左旋右旋迭代器.cpp" />
     <ClCompile Include="544. 前K大数.cpp" />
+    <ClCompile Include="545. 前K大数 II.cpp" />
     <ClCompile Include="55. 比较字符串.cpp" />
     <ClCompile Include="56. 两数之和.cpp" />
     <ClCompile Include="57. 三数之和.cpp" />

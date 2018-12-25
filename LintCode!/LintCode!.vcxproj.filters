@@ -702,5 +702,8 @@
     <ClCompile Include="540. 左旋右旋迭代器.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="545. 前K大数 II.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
