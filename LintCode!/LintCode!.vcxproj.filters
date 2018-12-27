@@ -708,5 +708,8 @@
     <ClCompile Include="547. 两数组的交集.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="578. 最近公共祖先 III.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
