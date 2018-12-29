@@ -714,5 +714,8 @@
     <ClCompile Include="541. 左旋右旋迭代器 II.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="569. 各位相加.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
