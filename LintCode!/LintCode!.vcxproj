@@ -252,9 +252,11 @@
     <ClCompile Include="582. 单词拆分II.cpp" />
     <ClCompile Include="59. 最接近的三数之和.cpp" />
     <ClCompile Include="595. 二叉树最长连续序列.cpp" />
+    <ClCompile Include="599. 向循环有序链表插入节点.cpp" />
     <ClCompile Include="6. 合并排序数组II.cpp" />
     <ClCompile Include="1188. Minimum Absolute Difference in BST.cpp" />
     <ClCompile Include="60. 搜索插入位置.cpp" />
+    <ClCompile Include="612. K个最近的点.cpp" />
     <ClCompile Include="650. Find Leaves of Binary Tree.cpp" />
     <ClCompile Include="659. Encode and Decode Strings.cpp" />
     <ClCompile Include="669. 换硬币.cpp" />
