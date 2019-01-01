@@ -723,5 +723,8 @@
     <ClCompile Include="548. 两数组的交集 II.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="595. 二叉树最长连续序列.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
