@@ -726,10 +726,10 @@
     <ClCompile Include="595. 二叉树最长连续序列.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
-    <ClCompile Include="599. 向循环有序链表插入节点.cpp">
-      <Filter>源文件\待解决</Filter>
-    </ClCompile>
     <ClCompile Include="612. K个最近的点.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
+    <ClCompile Include="599. 向循环有序链表插入节点.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
   </ItemGroup>
