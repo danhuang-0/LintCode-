@@ -741,5 +741,8 @@
     <ClCompile Include="585. 山脉序列中的最大值.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="600. 包裹黑色像素点的最小矩形.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -258,6 +258,7 @@
     <ClCompile Include="6. 合并排序数组II.cpp" />
     <ClCompile Include="1188. Minimum Absolute Difference in BST.cpp" />
     <ClCompile Include="60. 搜索插入位置.cpp" />
+    <ClCompile Include="600. 包裹黑色像素点的最小矩形.cpp" />
     <ClCompile Include="612. K个最近的点.cpp" />
     <ClCompile Include="626. 矩形重叠.cpp" />
     <ClCompile Include="650. Find Leaves of Binary Tree.cpp" />
