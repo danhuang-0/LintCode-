@@ -251,6 +251,7 @@
     <ClCompile Include="578. 最近公共祖先 III.cpp" />
     <ClCompile Include="58. 四数之和.cpp" />
     <ClCompile Include="582. 单词拆分II.cpp" />
+    <ClCompile Include="585. 山脉序列中的最大值.cpp" />
     <ClCompile Include="59. 最接近的三数之和.cpp" />
     <ClCompile Include="595. 二叉树最长连续序列.cpp" />
     <ClCompile Include="599. 向循环有序链表插入节点.cpp" />
