@@ -747,5 +747,8 @@
     <ClCompile Include="601. 摊平二维向量.cpp">
       <Filter>源文件\已完成\三位数</Filter>
     </ClCompile>
+    <ClCompile Include="603. 最大整除子集.cpp">
+      <Filter>源文件\已完成\三位数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
